@@ -4,7 +4,22 @@ Bookkeeper is a transaction journal for employee-client businesses.
 <br>
 The [online version](https://docs.google.com/spreadsheets/d/1qhAUi4EdRdpdfOoJvO20VIdC-DMeTKVQ11Vzio7wQ7A/edit#gid=1469364207) is highly recommended, but you can download a local file [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRZgM3BlebedB4DLVBP3jAk88BbdJs4YWiBDREDbY7ZTZHkpqHD14TOWPjDzaHh6ZEiYsAUe8Z6fFBV/pub?output=xlsx).
 
-<!--## Features-->
+## Features
+### Transaction Journal
+<img src="./src/journal.png" alt="Image of main journal sheet.">
+<br>
+
+### Monthly-Separated Income Statements
+<img src="./src/month.png" alt="Image of monthly summary sheet.">
+<br>
+
+### Summary Data per Client
+<img src="./src/clients.png" alt="Image of clients sheet.">
+<br>
+
+### Overall Growth & Trends
+<img src="./src/data.png" alt="Image of charts sheet.">
+<br>
 
 
 ## Setup
